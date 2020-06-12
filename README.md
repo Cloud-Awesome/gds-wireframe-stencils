@@ -1,6 +1,6 @@
 # gds-wireframe-stencils
 
-Basic stencils to create quick GDS wireframes in Visio or PowerPoint etc.
+Basic stencils to create quick GDS wireframes in Visio, PowerPoint etc. or print out to stick on the wall in a design workshop
 
 Used to quickly throw together the flow of pages in a wireframe using patterns from the Government Digital Service (GDS)
 
