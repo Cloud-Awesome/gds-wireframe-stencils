@@ -8,6 +8,7 @@ Repo includes
 - a Visio template file 
 - a PowerPoint deck with images and descriptions of each stencil
 - a PowerPoint deck with the original drawings that can be amended as required
+- a Word document of printable stencils for paper-based prototyping
 
 <img src="../../blob/master/Visio%20Basic%20Example.png">
 
