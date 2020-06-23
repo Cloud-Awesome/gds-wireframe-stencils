@@ -12,24 +12,17 @@ Repo includes
 
 <img src="../../blob/master/Visio%20Basic%20Example.png">
 
-## Done
+## Stencils
 
-- Start/Text-only page
-- Question 1 page
+- Before you start/Static Text
+- Task list
+- Step-by-step navigation
 - Check your answers
+- Sign in/password page
+- File upload
 - Interruption card
 - Confirmation page
-
-## Todo
-
-- Page not found
-- Errors on data input
-- Text field
-- Mutli-input page
-- Task list
-- The new sidebar task list
-- Step-by-step navigation
-- Date (Multi-box)
-- There is a problem with this service
+- 9 * Question pages of various input types
+- 3 * Question pages with validation errors
 
 Shout if any more would be useful! :) 
