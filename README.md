@@ -10,7 +10,7 @@ Repo includes
 - a PowerPoint deck with the original drawings that can be amended as required  ('PageIconDesigns.pptx')
 - a Word document of printable stencils for paper-based prototyping (coming later, for now use the stencils pptx)
 
-<img src="../../blob/master/Visio%20Basic%20Example.png">
+<img src="../../blob/master/Sample%20Diagram.svg">
 
 ## Stencils
 
